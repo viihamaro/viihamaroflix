@@ -1,0 +1,19 @@
+body{
+    color:black;
+    background:beige;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px brown;
+    padding: 20px;
+    font-size: 32px;
+
+
+    section{
+
+    background: bisque;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    }
+}
